@@ -36,4 +36,4 @@ Figma Design: Design work done in Figma.
 
 Live Website
 
-https://github.com/SaimTasleem111/portfolio
+https://saimtasleem111.github.io/portfolio/
